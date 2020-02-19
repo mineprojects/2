@@ -48,5 +48,4 @@ My motivation behind this was to advance my knowledge of python, hacking, and ju
 Other open-source Python RATs for Reference
 vesche/basicRAT n1nj4sec/pupy
 
-Download ME from :
-https://github.com/shifa123/SPY - LAB/blob/master/new%20code.rar
+
